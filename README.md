@@ -1,4 +1,4 @@
-- 👋 Hi, I’m anil_lodagala
+- 👋 Hi, I’m anil_venkata
 - 👀 I’m interested in data science and artificial intelligence.
 - 🌱 I’m currently learning various tools and coding languages for data analysis.
 - 💞️ I’m looking to collaborate on data science real time projects.
