@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @anillodagala
-- 👀 I’m interested in data science and artificial intelligence
-- 🌱 I’m currently learning various tools and coding languages for data analysis 
-- 💞️ I’m looking to collaborate on data science real time projects
+- 👋 Hi, I’m anil_lodagala
+- 👀 I’m interested in data science and artificial intelligence.
+- 🌱 I’m currently learning various tools and coding languages for data analysis.
+- 💞️ I’m looking to collaborate on data science real time projects.
 - 📫 How to reach me: anillodagala@gmail.com
 
 <!---
